@@ -17,6 +17,8 @@
 
 [F3](https://dl.acm.org/doi/pdf/10.1145/3749163)
 
+[Dremel](https://storage.googleapis.com/gweb-research2023-media/pubtools/3293.pdf)
+
 ## Distributed systems
 [Raft](https://ramcloud.atlassian.net/wiki/download/attachments/6586375/raft.pdf)
 
