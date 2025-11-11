@@ -15,6 +15,8 @@
 
 [A Morsel-Driven Query Execution Engine for Heterogeneous Multi-Cores](https://www.vldb.org/pvldb/vol12/p2218-dursun.pdf)
 
+[F3](https://dl.acm.org/doi/pdf/10.1145/3749163)
+
 ## Distributed systems
 [Raft](https://ramcloud.atlassian.net/wiki/download/attachments/6586375/raft.pdf)
 
