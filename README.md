@@ -19,6 +19,8 @@
 
 [Dremel](https://storage.googleapis.com/gweb-research2023-media/pubtools/3293.pdf)
 
+[ClickHouse](https://www.vldb.org/pvldb/vol17/p3731-schulze.pdf)
+
 ## Distributed systems
 [Raft](https://ramcloud.atlassian.net/wiki/download/attachments/6586375/raft.pdf)
 
